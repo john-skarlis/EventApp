@@ -1,8 +1,8 @@
 # Εγαρμογή εύρεσης Event - EventApp
 
 ## Θέμα Εργασίας: Εvents
-  * [Πληροφορίες της εφαρμογής](https://github.com/zisispa/adopse-omada2/blob/master/README.md#%CF%80%CE%BB%CE%B7%CF%81%CE%BF%CF%86%CE%BF%CF%81%CE%AF%CE%B5%CF%82-%CF%84%CE%B7%CF%82-%CE%B5%CF%86%CE%B1%CF%81%CE%BC%CE%BF%CE%B3%CE%AE%CF%82)
-  * [Installation Instructions](https://github.com/zisispa/adopse-omada2/#installation-instructions)
+  * [Πληροφορίες της εφαρμογής](https://github.com/john-skarlis/EventApp/#Πληροφορίες της εφαρμογής)
+  * [Installation Instructions](https://github.com/john-skarlis/EventApp/#installation-instructions)
   
  ---
 ### Πληροφορίες της εφαρμογής
