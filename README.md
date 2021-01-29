@@ -1,7 +1,7 @@
 # Εγαρμογή εύρεσης Event - EventApp
 
 ## Θέμα Εργασίας: Εvents
-  * [Πληροφορίες της εφαρμογής](https://github.com/john-skarlis/EventApp/#Πληροφορίες της εφαρμογής)
+  * [Πληροφορίες της εφαρμογής](https://github.com/john-skarlis/EventApp/#Πληροφορίες-της-εφαρμογής)
   * [Installation Instructions](https://github.com/john-skarlis/EventApp/#installation-instructions)
   
  ---
